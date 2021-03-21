@@ -385,7 +385,7 @@ En cas de désaccord entre le Gouvernement et le président de l'assemblée int�
 
 ### ARTICLE 42.
 
-La discussion des projets et des propositions de loi porte, en séance, sur le texte adopté par la commission saisie en application de l'[article 43](#article-42) ou, à défaut, sur le texte dont l'assemblée a été saisie.
+La discussion des projets et des propositions de loi porte, en séance, sur le texte adopté par la commission saisie en application de l'[article 43](#article-43) ou, à défaut, sur le texte dont l'assemblée a été saisie.
 
 Toutefois, la discussion en séance des projets de révision constitutionnelle, des projets de loi de finances et des projets de loi de financement de la sécurité sociale porte, en première lecture devant la première assemblée saisie, sur le texte présenté par le Gouvernement et, pour les autres lectures, sur le texte transmis par l'autre assemblée.
 
